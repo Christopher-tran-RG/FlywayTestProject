@@ -5,7 +5,6 @@ CREATE TABLE [dbo].[Employees]
 [EmployeeLastName] [nvarchar] (50) NULL,
 [Nickname] [nvarchar] (50) NULL,
 [DateOfBirth] [date] NULL,
-[Sex] [varchar] (50) NULL,
 [Position] [varchar] (50) NULL
 )
 GO
